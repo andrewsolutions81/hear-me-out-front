@@ -1,11 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-function Home() {
+function Profile() {
   return (
-    <div className="home-container">
-      <p>Home</p>
-    </div>
-  );
+    <div>Profile</div>
+  )
 }
 
-export default Home;
+export default Profile
